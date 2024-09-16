@@ -2,6 +2,7 @@
 #include <array>
 #include <vector>
 #include <random>
+#include <cstring>
 #include "base64.h"
 
 std::array<unsigned char, 256> subst = {
